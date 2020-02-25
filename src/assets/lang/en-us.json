@@ -15,6 +15,7 @@
     "core.notenrolledprofile": "This profile is not available because this user is not enrolled in this course.",
     "core.paymentinstant": "Use the button below to pay and be enrolled within minutes!",
     "core.settings.license": "License",
+	"core.settings.author": "Author",
     "core.strftimedate": "%B %d, %Y",
     "core.strftimedatefullshort": "%m/%d/%y",
     "core.strftimedateshort": "%B %d",
